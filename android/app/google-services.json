@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "416199386202",
+    "project_id": "ngssoftdriver",
+    "storage_bucket": "ngssoftdriver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416199386202:android:80303306eb3a425b716463",
+        "android_client_info": {
+          "package_name": "com.example.uberdrivernew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416199386202-2kdoh6hb4k7g9jm79k74bcib85nmh4fi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uberdrivernew",
+            "certificate_hash": "ac610957af5d80ac754b83f695bef5b01031aa83"
+          }
+        },
+        {
+          "client_id": "416199386202-1lpjpmipa9qh58ea13dpeu2ka68ld79b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClu6mTrztZokiHvdYmnYTOWs9RfahRfn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416199386202-1lpjpmipa9qh58ea13dpeu2ka68ld79b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
